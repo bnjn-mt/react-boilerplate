@@ -1,0 +1,11 @@
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+div h1 {
+  font-size: 3rem;
+  color: #5d5dff;
+}
